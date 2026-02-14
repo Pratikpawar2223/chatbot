@@ -83,13 +83,5 @@ Bot: Here is your roadmap...
 You: 25*4+10  
 Bot: 110
 
----
-
-## 🎯 Why This Project is Strong for Resume?
-
-✔ Uses Production LLM (Claude 3.5 via Bedrock)  
-✔ Implements Tool Calling  
-✔ Persistent Memory  
-✔ Real-world Career Assistant Use Case  
-✔ Multi-session Chat Architecture  
+  
   
