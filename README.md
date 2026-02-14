@@ -51,20 +51,7 @@ ai-career-assistant/
 ├── requirements.txt
 └── README.md
 
-
----
-
-## 🔐 AWS Configuration
-
-Make sure AWS credentials are configured:
-
-aws configure
-
-Or set environment variables:
-
-set AWS_ACCESS_KEY_ID=your_key  
-set AWS_SECRET_ACCESS_KEY=your_secret  
-set AWS_DEFAULT_REGION=us-east-1  
+ 
 
 ---
 
